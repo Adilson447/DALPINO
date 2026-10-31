@@ -1,0 +1,719 @@
+{
+ "_leia": "Fonte unica do catalogo: o site e a Dara leem este arquivo. Sem precos. 'detalhe' so com texto do material da clinica.",
+ "atualizado_em": "2026-10-30",
+ "categorias": [
+  {
+   "id": "sobrancelhas",
+   "nome": "Sobrancelhas",
+   "comeca_por_avaliacao": true,
+   "itens": [
+    {
+     "id": "sobrancelhas--avaliacao-com-tricoscopia",
+     "nome": "Avaliação com tricoscopia",
+     "duracao": "1h",
+     "busca": "avaliacao sobrancelha falhada"
+    },
+    {
+     "id": "sobrancelhas--design-therapy",
+     "nome": "Design Therapy",
+     "duracao": "40min",
+     "busca": "design"
+    },
+    {
+     "id": "sobrancelhas--lamination-therapy",
+     "nome": "Lamination Therapy",
+     "duracao": "1h",
+     "busca": "laminacao brow lamination"
+    },
+    {
+     "id": "sobrancelhas--pos-lamination-therapy",
+     "nome": "Pós Lamination Therapy",
+     "duracao": "30min",
+     "busca": "manutencao laminacao"
+    },
+    {
+     "id": "sobrancelhas--nanofios-brows",
+     "nome": "Nanofios Brows",
+     "duracao": "2h",
+     "detalhe": "Evolução da micropigmentação, com durabilidade de até 8 meses.",
+     "busca": "micropigmentacao fio a fio"
+    }
+   ]
+  },
+  {
+   "id": "estetica-facial",
+   "nome": "Estética facial",
+   "comeca_por_avaliacao": true,
+   "itens": [
+    {
+     "id": "estetica-facial--avaliacao-anamnese-facial",
+     "nome": "Avaliação/Anamnese facial",
+     "duracao": "1h",
+     "busca": "avaliacao rosto pele"
+    },
+    {
+     "id": "estetica-facial--toxina-botulinica",
+     "nome": "Toxina botulínica",
+     "duracao": "1h30",
+     "busca": "botox rugas"
+    },
+    {
+     "id": "estetica-facial--skinbooster-facial",
+     "nome": "Skinbooster facial",
+     "duracao": "1h30",
+     "busca": "hidratacao profunda"
+    },
+    {
+     "id": "estetica-facial--microagulhamento-com-ativos",
+     "nome": "Microagulhamento com ativos",
+     "duracao": "1h30",
+     "busca": "microagulhamento"
+    },
+    {
+     "id": "estetica-facial--bioestimulador-de-colageno",
+     "nome": "Bioestimulador de colágeno",
+     "duracao": "1h30",
+     "busca": "colageno flacidez"
+    },
+    {
+     "id": "estetica-facial--lifting-nao-cirurgico",
+     "nome": "Lifting não cirúrgico",
+     "duracao": "2h",
+     "busca": "flacidez"
+    },
+    {
+     "id": "estetica-facial--lifting-nao-cirurgico-por-area",
+     "nome": "Lifting não cirúrgico por área",
+     "duracao": "1h30",
+     "busca": "flacidez"
+    },
+    {
+     "id": "estetica-facial--aplicacao-de-acido-hialuronico",
+     "nome": "Aplicação de ácido hialurônico",
+     "duracao": "1h30",
+     "busca": "preenchimento hialuronico"
+    },
+    {
+     "id": "estetica-facial--preenchimento-de-sulcos",
+     "nome": "Preenchimento de sulcos",
+     "duracao": "1h",
+     "busca": "bigode chines"
+    },
+    {
+     "id": "estetica-facial--enzimas-faciais-papada",
+     "nome": "Enzimas faciais / papada",
+     "duracao": "1h30",
+     "busca": "papada gordura"
+    },
+    {
+     "id": "estetica-facial--enzima-papada",
+     "nome": "Enzima papada",
+     "duracao": "1h",
+     "busca": "papada"
+    },
+    {
+     "id": "estetica-facial--hidratacao-ou-nutricao-facial",
+     "nome": "Hidratação ou nutrição facial",
+     "duracao": "1h",
+     "busca": "pele seca"
+    },
+    {
+     "id": "estetica-facial--revitalizacao-de-pescoco",
+     "nome": "Revitalização de pescoço",
+     "duracao": "1h",
+     "busca": "pescoco colo"
+    },
+    {
+     "id": "estetica-facial--tratamento-para-olheiras",
+     "nome": "Tratamento para olheiras",
+     "duracao": "40min",
+     "busca": "olheira olhos"
+    },
+    {
+     "id": "estetica-facial--tratamento-de-melasma",
+     "nome": "Tratamento de melasma",
+     "duracao": "1h",
+     "busca": "manchas melasma"
+    },
+    {
+     "id": "estetica-facial--radio",
+     "nome": "Rádio",
+     "duracao": "1h",
+     "busca": "radiofrequencia"
+    },
+    {
+     "id": "estetica-facial--cauterizacao-de-pintas",
+     "nome": "Cauterização de pintas",
+     "duracao": "1h",
+     "busca": "pinta"
+    },
+    {
+     "id": "estetica-facial--retorno-de-cauterizacao-de-pintas",
+     "nome": "Retorno de cauterização de pintas",
+     "duracao": "1h",
+     "busca": "retorno"
+    },
+    {
+     "id": "estetica-facial--cauterizacao-de-verrugas",
+     "nome": "Cauterização de verrugas",
+     "duracao": "1h",
+     "busca": "verruga"
+    },
+    {
+     "id": "estetica-facial--cauterizacao-de-acne",
+     "nome": "Cauterização de acne",
+     "duracao": "2h",
+     "busca": "espinha acne"
+    },
+    {
+     "id": "estetica-facial--retirada-de-seringomas",
+     "nome": "Retirada de seringomas",
+     "duracao": "1h",
+     "busca": "seringoma"
+    },
+    {
+     "id": "estetica-facial--retorno-botox",
+     "nome": "Retorno botox",
+     "duracao": "1h",
+     "busca": "retorno toxina"
+    }
+   ]
+  },
+  {
+   "id": "limpeza-de-pele",
+   "nome": "Limpeza de pele",
+   "comeca_por_avaliacao": false,
+   "itens": [
+    {
+     "id": "limpeza-de-pele--limpeza-glow",
+     "nome": "Limpeza Glow",
+     "duracao": "1h30",
+     "busca": "limpeza"
+    },
+    {
+     "id": "limpeza-de-pele--limpeza-essencial",
+     "nome": "Limpeza Essencial",
+     "duracao": "1h30",
+     "busca": "limpeza"
+    },
+    {
+     "id": "limpeza-de-pele--limpeza-com-peeling",
+     "nome": "Limpeza com peeling",
+     "duracao": "1h30",
+     "busca": "peeling"
+    },
+    {
+     "id": "limpeza-de-pele--limpeza-de-costas",
+     "nome": "Limpeza de costas",
+     "duracao": "1h30",
+     "busca": "costas acne"
+    },
+    {
+     "id": "limpeza-de-pele--limpeza-de-pele-intima",
+     "nome": "Limpeza de pele íntima",
+     "duracao": "1h30",
+     "busca": "intima virilha"
+    },
+    {
+     "id": "limpeza-de-pele--retorno-de-limpeza-de-pele",
+     "nome": "Retorno de limpeza de pele",
+     "duracao": "1h",
+     "busca": "retorno"
+    }
+   ]
+  },
+  {
+   "id": "cilios-e-labios",
+   "nome": "Cílios e lábios",
+   "comeca_por_avaliacao": false,
+   "itens": [
+    {
+     "id": "cilios-e-labios--lash-therapy",
+     "nome": "Lash Therapy",
+     "duracao": "1h30",
+     "busca": "cilios lash lifting"
+    },
+    {
+     "id": "cilios-e-labios--hidragloss",
+     "nome": "Hidragloss",
+     "duracao": "1h",
+     "busca": "labios hidratacao"
+    },
+    {
+     "id": "cilios-e-labios--micropigmentacao-labial",
+     "nome": "Micropigmentação labial",
+     "duracao": "1h",
+     "busca": "boca labios cor"
+    },
+    {
+     "id": "cilios-e-labios--preenchimento-labial",
+     "nome": "Preenchimento labial",
+     "duracao": "1h",
+     "busca": "boca labios volume"
+    },
+    {
+     "id": "cilios-e-labios--spa-labial",
+     "nome": "Spa labial",
+     "duracao": "10min",
+     "busca": "labios"
+    }
+   ]
+  },
+  {
+   "id": "saude-integrativa",
+   "nome": "Saúde integrativa",
+   "comeca_por_avaliacao": true,
+   "itens": [
+    {
+     "id": "saude-integrativa--avaliacao-integrativa",
+     "nome": "Avaliação integrativa",
+     "duracao": "30min",
+     "busca": "avaliacao ozonio dor"
+    },
+    {
+     "id": "saude-integrativa--avaliacao-de-ozonioterapia",
+     "nome": "Avaliação de ozonioterapia",
+     "duracao": "1h",
+     "busca": "ozonio avaliacao"
+    },
+    {
+     "id": "saude-integrativa--laserterapia-ilib",
+     "nome": "Laserterapia / ILIB",
+     "duracao": "1h",
+     "busca": "laser ilib"
+    },
+    {
+     "id": "saude-integrativa--autohemoterapia-ozonizada",
+     "nome": "Autohemoterapia ozonizada",
+     "duracao": "30min",
+     "busca": "ozonio"
+    },
+    {
+     "id": "saude-integrativa--tratamento-para-dor",
+     "nome": "Tratamento para dor",
+     "duracao": "1h",
+     "detalhe": "Joelho, coluna e ombros.",
+     "busca": "dor ombro joelho coluna costas tendao"
+    },
+    {
+     "id": "saude-integrativa--tratamento-para-cefaleia",
+     "nome": "Tratamento para cefaleia",
+     "duracao": "1h",
+     "busca": "dor de cabeca enxaqueca"
+    },
+    {
+     "id": "saude-integrativa--tratamento-para-imunidade",
+     "nome": "Tratamento para imunidade",
+     "duracao": "1h",
+     "busca": "imunidade"
+    },
+    {
+     "id": "saude-integrativa--tratamento-intestinal",
+     "nome": "Tratamento intestinal",
+     "duracao": "30min",
+     "busca": "intestino"
+    },
+    {
+     "id": "saude-integrativa--sinergia-celular-aromaterapia",
+     "nome": "Sinergia celular / aromaterapia",
+     "duracao": "1h",
+     "busca": "aromaterapia oleos essenciais"
+    },
+    {
+     "id": "saude-integrativa--tratamento-respiratorio",
+     "nome": "Tratamento respiratório",
+     "duracao": "40min",
+     "busca": "respiracao"
+    },
+    {
+     "id": "saude-integrativa--tratamento-de-cicatrizes",
+     "nome": "Tratamento de cicatrizes",
+     "duracao": "45min",
+     "busca": "cicatriz"
+    },
+    {
+     "id": "saude-integrativa--tratamento-de-fibrose",
+     "nome": "Tratamento de fibrose",
+     "duracao": "45min",
+     "busca": "fibrose pos operatorio"
+    },
+    {
+     "id": "saude-integrativa--tratamento-de-microvasos",
+     "nome": "Tratamento de microvasos",
+     "duracao": "1h",
+     "busca": "vasinhos varizes"
+    },
+    {
+     "id": "saude-integrativa--tratamento-de-feridas",
+     "nome": "Tratamento de feridas",
+     "duracao": "1h30",
+     "busca": "ferida"
+    },
+    {
+     "id": "saude-integrativa--tratamento-de-furunculo",
+     "nome": "Tratamento de furúnculo",
+     "duracao": "1h",
+     "busca": "furunculo"
+    },
+    {
+     "id": "saude-integrativa--tratamento-para-unhas",
+     "nome": "Tratamento para unhas",
+     "duracao": "1h",
+     "detalhe": "Lesão, micose e dor.",
+     "busca": "unha micose"
+    },
+    {
+     "id": "saude-integrativa--tratamento-para-pele",
+     "nome": "Tratamento para pele",
+     "duracao": "1h",
+     "detalhe": "Psoríase, dermatite e alergias.",
+     "busca": "psoriase dermatite alergia"
+    },
+    {
+     "id": "saude-integrativa--biorressonancia",
+     "nome": "Biorressonância",
+     "duracao": "1h",
+     "busca": "biorressonancia"
+    }
+   ]
+  },
+  {
+   "id": "massagem-e-drenagem",
+   "nome": "Massagem e drenagem",
+   "comeca_por_avaliacao": false,
+   "itens": [
+    {
+     "id": "massagem-e-drenagem--drenagem-metodo-renata-franca",
+     "nome": "Drenagem Método Renata França",
+     "duracao": "1h30",
+     "busca": "drenagem inchaco"
+    },
+    {
+     "id": "massagem-e-drenagem--drenagem-linfatica-manual",
+     "nome": "Drenagem linfática manual",
+     "duracao": "1h30",
+     "busca": "drenagem inchaco"
+    },
+    {
+     "id": "massagem-e-drenagem--drenagem-linfatica-facial",
+     "nome": "Drenagem linfática facial",
+     "duracao": "50min",
+     "busca": "drenagem rosto"
+    },
+    {
+     "id": "massagem-e-drenagem--drenagem-para-gestantes",
+     "nome": "Drenagem para gestantes",
+     "duracao": "1h",
+     "busca": "gravida gestante"
+    },
+    {
+     "id": "massagem-e-drenagem--drenagem-pos-operatoria",
+     "nome": "Drenagem pós-operatória",
+     "duracao": "1h30",
+     "busca": "pos operatorio cirurgia"
+    },
+    {
+     "id": "massagem-e-drenagem--drenagem-facial-pos-operatoria",
+     "nome": "Drenagem facial pós-operatória",
+     "duracao": "1h30",
+     "busca": "pos operatorio rosto"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-relaxante",
+     "nome": "Massagem relaxante",
+     "duracao": "1h20",
+     "busca": "relaxar estresse"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-terapeutica",
+     "nome": "Massagem terapêutica",
+     "duracao": "1h20",
+     "busca": "tensao dor muscular"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-com-pedras-quentes",
+     "nome": "Massagem com pedras quentes",
+     "duracao": "1h20",
+     "busca": "pedras"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-relaxante-com-pedras",
+     "nome": "Massagem relaxante com pedras",
+     "duracao": "1h30",
+     "busca": "pedras"
+    },
+    {
+     "id": "massagem-e-drenagem--shiatsu",
+     "nome": "Shiatsu",
+     "duracao": "1h20",
+     "busca": "shiatsu"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-facial",
+     "nome": "Massagem facial",
+     "duracao": "40min",
+     "busca": "rosto"
+    },
+    {
+     "id": "massagem-e-drenagem--ventosaterapia",
+     "nome": "Ventosaterapia",
+     "duracao": "1h30",
+     "busca": "ventosa"
+    },
+    {
+     "id": "massagem-e-drenagem--aplicacao-de-ventosa",
+     "nome": "Aplicação de ventosa",
+     "duracao": "40min",
+     "busca": "ventosa"
+    },
+    {
+     "id": "massagem-e-drenagem--massagem-terapeutica-ventosaterapia",
+     "nome": "Massagem terapêutica + ventosaterapia",
+     "duracao": "1h30",
+     "busca": "ventosa"
+    },
+    {
+     "id": "massagem-e-drenagem--reflexologia-podal",
+     "nome": "Reflexologia podal",
+     "duracao": "50min",
+     "busca": "pes"
+    },
+    {
+     "id": "massagem-e-drenagem--quick-massage",
+     "nome": "Quick massage",
+     "duracao": "30min",
+     "busca": "rapida"
+    }
+   ]
+  },
+  {
+   "id": "regeneracao-capilar",
+   "nome": "Regeneração capilar",
+   "comeca_por_avaliacao": false,
+   "itens": [
+    {
+     "id": "regeneracao-capilar--rebrow-therapy",
+     "nome": "Rebrow Therapy",
+     "duracao": "40min",
+     "detalhe": "Regeneração de sobrancelhas com exossomos e PDRN.",
+     "busca": "sobrancelha falhada rala"
+    },
+    {
+     "id": "regeneracao-capilar--terapia-capilar",
+     "nome": "Terapia capilar",
+     "duracao": "1h",
+     "busca": "cabelo queda"
+    },
+    {
+     "id": "regeneracao-capilar--tratamento-para-crescimento-de-barba",
+     "nome": "Tratamento para crescimento de barba",
+     "duracao": "45min",
+     "busca": "barba"
+    }
+   ]
+  },
+  {
+   "id": "corpo-e-fit-glow",
+   "nome": "Corpo e Fit Glow",
+   "comeca_por_avaliacao": true,
+   "itens": [
+    {
+     "id": "corpo-e-fit-glow--glow-purify",
+     "nome": "Glow Purify",
+     "duracao": "1h30",
+     "detalhe": "Protocolo voltado a detox e inchaço.",
+     "busca": "detox inchaco"
+    },
+    {
+     "id": "corpo-e-fit-glow--glow-slim",
+     "nome": "Glow Slim",
+     "duracao": "1h",
+     "detalhe": "Protocolo para gordura localizada com ozonioterapia.",
+     "busca": "gordura localizada emagrecer"
+    },
+    {
+     "id": "corpo-e-fit-glow--avaliacao-corporal",
+     "nome": "Avaliação corporal",
+     "duracao": "1h",
+     "busca": "avaliacao corpo"
+    },
+    {
+     "id": "corpo-e-fit-glow--enzimas-corporais",
+     "nome": "Enzimas corporais",
+     "duracao": "1h30",
+     "detalhe": "Para gordura localizada, flacidez e celulite.",
+     "busca": "gordura celulite flacidez"
+    },
+    {
+     "id": "corpo-e-fit-glow--enzimas-para-flacidez",
+     "nome": "Enzimas para flacidez",
+     "duracao": "1h",
+     "busca": "flacidez"
+    },
+    {
+     "id": "corpo-e-fit-glow--tratamento-para-estrias",
+     "nome": "Tratamento para estrias",
+     "duracao": "1h",
+     "busca": "estria"
+    },
+    {
+     "id": "corpo-e-fit-glow--peeling-para-estrias",
+     "nome": "Peeling para estrias",
+     "duracao": "1h30",
+     "busca": "estria"
+    },
+    {
+     "id": "corpo-e-fit-glow--clareamento-de-manchas",
+     "nome": "Clareamento de manchas",
+     "duracao": "1h30",
+     "busca": "mancha"
+    },
+    {
+     "id": "corpo-e-fit-glow--clareamento-de-axilas",
+     "nome": "Clareamento de axilas",
+     "duracao": "1h",
+     "busca": "axila mancha"
+    },
+    {
+     "id": "corpo-e-fit-glow--esfoliacao-corporal",
+     "nome": "Esfoliação corporal",
+     "duracao": "1h",
+     "busca": "esfoliacao"
+    },
+    {
+     "id": "corpo-e-fit-glow--up-gluteo",
+     "nome": "Up glúteo",
+     "duracao": "1h30",
+     "busca": "gluteo bumbum"
+    }
+   ]
+  },
+  {
+   "id": "depilacao",
+   "nome": "Depilação",
+   "comeca_por_avaliacao": false,
+   "itens": [
+    {
+     "id": "depilacao--axilas",
+     "nome": "Axilas",
+     "duracao": "30min",
+     "busca": "depilacao axila"
+    },
+    {
+     "id": "depilacao--abdomen",
+     "nome": "Abdômen",
+     "duracao": "30min",
+     "busca": "depilacao barriga"
+    },
+    {
+     "id": "depilacao--bracos",
+     "nome": "Braços",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--buco",
+     "nome": "Buço",
+     "duracao": "20min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--nariz",
+     "nome": "Nariz",
+     "duracao": "20min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--orelha",
+     "nome": "Orelha",
+     "duracao": "20min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--queixo",
+     "nome": "Queixo",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--rosto",
+     "nome": "Rosto",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--nadegas",
+     "nome": "Nádegas",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--meia-perna",
+     "nome": "Meia perna",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--perna-inteira",
+     "nome": "Perna inteira",
+     "duracao": "30min",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--virilha-completa",
+     "nome": "Virilha completa",
+     "duracao": "1h",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--higienica",
+     "nome": "Higiênica",
+     "duracao": "30min",
+     "busca": "depilacao virilha"
+    },
+    {
+     "id": "depilacao--costas",
+     "nome": "Costas",
+     "duracao": "2h",
+     "busca": "depilacao"
+    },
+    {
+     "id": "depilacao--combo-meia-perna-virilha",
+     "nome": "Combo meia perna + virilha",
+     "duracao": "1h",
+     "busca": "depilacao combo"
+    },
+    {
+     "id": "depilacao--combo-meia-perna-virilha-axila",
+     "nome": "Combo meia perna + virilha + axila",
+     "duracao": "1h30",
+     "busca": "depilacao combo"
+    },
+    {
+     "id": "depilacao--combo-perna-inteira-virilha",
+     "nome": "Combo perna inteira + virilha",
+     "duracao": "1h",
+     "busca": "depilacao combo"
+    },
+    {
+     "id": "depilacao--combo-perna-inteira-virilha-axila",
+     "nome": "Combo perna inteira + virilha + axila",
+     "duracao": "1h30",
+     "busca": "depilacao combo"
+    },
+    {
+     "id": "depilacao--combo-virilha-axila",
+     "nome": "Combo virilha + axila",
+     "duracao": "1h",
+     "busca": "depilacao combo"
+    },
+    {
+     "id": "depilacao--combo-virilha-axila-buco",
+     "nome": "Combo virilha + axila + buço",
+     "duracao": "1h30",
+     "busca": "depilacao combo"
+    }
+   ]
+  }
+ ]
+}
